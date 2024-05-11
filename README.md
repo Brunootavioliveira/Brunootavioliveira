@@ -42,10 +42,11 @@
 </picture>
   <img  width=355px src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Brunootavioliveira&show_icons=true&theme=radical&layout=compact" />
 </div>
-<br>
+
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
 </h1>
-
+<br>
+<img width=100% bottom=50px src="https://github.com/Brunootavioliveira/Brunootavioliveira/assets/162759544/4f797387-327f-4e42-9b35-724a3f00c612"/>
 
 
