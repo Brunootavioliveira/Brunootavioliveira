@@ -1,3 +1,6 @@
+<img width=100% bottom=50px src="https://github.com/Brunootavioliveira/Brunootavioliveira/assets/162759544/97266388-044d-4537-94ee-b32a04768e09"/>
+<br>
+
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+Me+chamo+Bruno!;" />
 </h1>
