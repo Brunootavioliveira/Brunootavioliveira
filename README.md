@@ -28,8 +28,8 @@
 <br>
 <div>
   <a href="https://beacons.ai/Brunootavioliveira">
-  <img height="210em" width="550em" src="https://github-readme-stats.vercel.app/api?username=Brunootavioliveira&show_icons=true&theme=dracula&include_all_commits=true%count_private=true"/>   
-  <img height="210em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunootavioliveira&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="170em" width="450em" src="https://github-readme-stats.vercel.app/api?username=Brunootavioliveira&show_icons=true&theme=dracula&include_all_commits=true%count_private=true"/>   
+  <img height="170em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunootavioliveira&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <h1 align="center">
