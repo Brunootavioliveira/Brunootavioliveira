@@ -26,21 +26,7 @@
 </div>
 
 
-<br>
-<div  width=355px align="center" flex-direction: column;>
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Brunootavioliveira&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Brunootavioliveira&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Brunootavioliveira&show_icons=true" />
-</picture>
-  <img  width=355px src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Brunootavioliveira&show_icons=true&theme=radical&layout=compact" />
-</div>
+
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
