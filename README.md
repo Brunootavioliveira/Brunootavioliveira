@@ -25,8 +25,12 @@
   <a  href = "mailto:Brunootavioliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
-
-
+<br>
+<div>
+  <a href="https://beacons.ai/Brunootavioliveira">
+  <img height="210em" width="550em" src="https://github-readme-stats.vercel.app/api?username=Brunootavioliveira&show_icons=true&theme=dracula&include_all_commits=true%count_private=true"/>   
+  <img height="210em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunootavioliveira&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
