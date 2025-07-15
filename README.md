@@ -60,6 +60,6 @@ Sobre mim
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
 </h1>
 <br>
-<img width=100% bottom=50px src="https://github.com/Brunootavioliveira/Brunootavioliveira/assets/162759544/4f797387-327f-4e42-9b35-724a3f00c612"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1c92e6,100:022bff"/>
 
 
