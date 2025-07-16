@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+Me+chamo+Bruno!;" />
 </h1>
@@ -62,4 +60,7 @@ Sobre mim
 <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1c92e6,100:022bff"/>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Brunootavioliveira/Brunootavioliveira/output/snake.svg" alt="Snake animation" />
 
