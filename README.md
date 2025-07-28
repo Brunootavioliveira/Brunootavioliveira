@@ -41,7 +41,7 @@ Sobre mim
 <br>
 
 <h2 align="center">
-  💻 Tecnologias e linguagens
+  💻 Back-end
 </h2>
     
 <div align="center"><br>
