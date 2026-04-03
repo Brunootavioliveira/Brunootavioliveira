@@ -65,9 +65,6 @@ Projeto desenvolvido como simulação de um produto real, aplicando boas prátic
   <a href="https://github.com/Brunootavioliveira/finance-track-api">
     <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
   <a href="https://finance-track-api-6n9c.onrender.com/swagger-ui/index.html">
     <img src="https://img.shields.io/badge/Swagger-API%20Docs-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
   </a>
