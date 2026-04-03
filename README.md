@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:022bff,100:1c92e6"/>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+Me+chamo+Bruno!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Bruno!;" />
 </h1>
 
 <p align="center">
-  Desenvolvedor em formação, comprometido a criar soluções modernas, funcionais e com propósito. <br>
-  Tenho focado meus estudos em <strong>Java</strong> e no ecossistema <strong>Spring</strong>, transformando cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
+Desenvolvedor Back-end em formação, com foco em <strong>Java</strong> e no ecossistema <strong>Spring</strong>. <br>
+Transformo meus estudos em projetos práticos que simulam sistemas reais, aplicando boas práticas de desenvolvimento, APIs REST e arquitetura backend durante minha jornada em Engenharia de Software.
 </p>
 
 <h2 align="center">Sobre mim</h2>
@@ -39,18 +39,27 @@
 
 <h3 align="center">💰 FinanceTrack — Sistema de Controle Financeiro</h3>
 
-<p align="center">Aplicação back-end para gerenciamento de finanças pessoais.</p>
+<p align="center">Aplicação <strong>full stack</strong> para gerenciamento de finanças pessoais, com backend em Spring Boot e frontend em React.</p>
 
 <div align="center">
 
 | Funcionalidade | Detalhe |
 |---|---|
-| API REST | Spring Boot |
+| Backend | Java + Spring Boot |
+| Frontend | React |
+| API REST | Arquitetura em camadas (Controller, Service, Repository) |
+| Autenticação | JWT (JSON Web Token) |
+| Validação de dados | Bean Validation |
+| Tratamento de exceções | Global Exception Handler |
 | Banco de dados | PostgreSQL |
-| Arquitetura | Camadas (Controller, Service, Repository) |
-| Deploy | Produção |
+| Containerização | Docker |
+| Deploy | Aplicação em produção |
 
 </div>
+
+<p align="center">
+Projeto desenvolvido como simulação de um produto real, aplicando boas práticas de arquitetura, segurança, validação de dados e organização de código.
+</p>
 
 <p align="center">
   <a href="https://github.com/Brunootavioliveira/finance-track-api">
@@ -58,11 +67,17 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://finance-track-api-6n9c.onrender.com/swagger-ui/index.html">
+    <img src="https://img.shields.io/badge/Swagger-API%20Docs-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+  </a>
+</p>
+
 ---
 
 <h3 align="center">📦 Sistema de Pedidos com Mensageria</h3>
 
-<p align="center">Projeto focado em arquitetura de sistemas distribuídos. <em>(em desenvolvimento)</em></p>
+<p align="center">Projeto backend que simula o fluxo de processamento de pedidos utilizando arquitetura assíncrona com mensageria e microsserviços. <em>(em desenvolvimento)</em></p>
 
 <div align="center">
 
@@ -86,7 +101,7 @@
 
 <h3 align="center">📅 API de Agendamento</h3>
 
-<p align="center">Sistema back-end para gerenciamento de agendamentos.</p>
+<p align="center">Sistema back-end para gerenciamento de agendamentos, desenvolvido com foco em boas práticas REST e organização de código.</p>
 
 <div align="center">
 
@@ -110,10 +125,8 @@
 <h2 align="center">⭐ GitHub Stats</h2>
 
 <div align="center">
-  <a href="https://beacons.ai/Brunootavioliveira">
     <img height="180em" width="450em" src="https://github-readme-stats-blue-six-72.vercel.app/api?username=Brunootavioliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-blue-six-72.vercel.app/api/top-langs/?username=Brunootavioliveira&layout=compact&langs_count=6&theme=radical"/>
-  </a>
 </div>
 
 <br>
@@ -142,7 +155,7 @@
 <br>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+visita!;" />
 </h1>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1c92e6,100:022bff"/>
