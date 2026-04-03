@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:022bff,100:1c92e6"/>
+
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+Me+chamo+Bruno!;" />
 </h1>
@@ -15,24 +16,96 @@
   <br>
   🎓 Cursando Engenharia de Software na FIAP.
   <br>
-  📚 Aprofundando meus conhecimentos em Java, Spring Boot e boas práticas de desenvolvimento.
+  📚 Aprofundando conhecimentos em Java, Spring Boot, APIs REST, Mensageria com RabbitMQ, Arquitetura de Microsserviços, Docker e Arquitetura Backend.
 </div>
 
 <br>
 
 <div align="center"> 
+  <a href="https://portfoliobrunooliveira.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/bruno-otavio-oliveira-498b80282/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/brunootavioliveira_19278" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="mailto:Devbrunootavio@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
-<br>
+---
+
+<h2 align="center">🚀 Projetos em Destaque</h2>
+
+<h3 align="center">💰 FinanceTrack — Sistema de Controle Financeiro</h3>
+
+<p align="center">Aplicação back-end para gerenciamento de finanças pessoais.</p>
+
+<div align="center">
+
+| Funcionalidade | Detalhe |
+|---|---|
+| API REST | Spring Boot |
+| Banco de dados | PostgreSQL |
+| Arquitetura | Camadas (Controller, Service, Repository) |
+| Deploy | Produção |
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/Brunootavioliveira/finance-track-api">
+    <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">📦 Sistema de Pedidos com Mensageria</h3>
+
+<p align="center">Projeto focado em arquitetura de sistemas distribuídos. <em>(em desenvolvimento)</em></p>
+
+<div align="center">
+
+| Tecnologia | Uso |
+|---|---|
+| Java + Spring Boot | Core da aplicação |
+| RabbitMQ | Mensageria assíncrona |
+| Microsserviços | Arquitetura distribuída |
+
+</div>
+
+<p align="center">Objetivo: simular fluxo real de processamento de pedidos em e-commerces.</p>
+
+<p align="center">
+  <a href="https://github.com/Brunootavioliveira">
+    <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">📅 API de Agendamento</h3>
+
+<p align="center">Sistema back-end para gerenciamento de agendamentos.</p>
+
+<div align="center">
+
+| Funcionalidade | Detalhe |
+|---|---|
+| CRUD completo | Criação, leitura, atualização e remoção |
+| Validações de dados | Bean Validation |
+| Endpoints REST | Documentados |
+| Banco de dados | Integração completa |
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/Brunootavioliveira/appointment-scheduler-api">
+    <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 <h2 align="center">⭐ GitHub Stats</h2>
 
@@ -67,6 +140,7 @@
 </div>
 
 <br>
+
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
 </h1>
