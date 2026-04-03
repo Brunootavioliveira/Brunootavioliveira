@@ -5,17 +5,17 @@
 
 <p align="center">
   Desenvolvedor em formação, comprometido a criar soluções modernas, funcionais e com propósito. <br>
-  Tenho focado meus estudos em <strong>Java</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
+  Tenho focado meus estudos em <strong>Java</strong> e no ecossistema <strong>Spring</strong>, transformando cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
 </p>
 
 <h2 align="center">Sobre mim</h2>
 
 <div align="center">
-  🔭 Estou em busca da minha primeira oportunidade de emprego.
+  💼 Estou em busca da minha primeira oportunidade como desenvolvedor Back-end.
   <br>
-  🎓 Atualmente estou estudando Engenharia de Software na FIAP.
+  🎓 Cursando Engenharia de Software na FIAP.
   <br>
-  📚 Estudando Java, buscando me especializar em seus conceitos.
+  📚 Aprofundando meus conhecimentos em Java, Spring Boot e boas práticas de desenvolvimento.
 </div>
 
 <br>
