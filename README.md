@@ -136,18 +136,11 @@ Projeto desenvolvido como simulação de um produto real, aplicando boas prátic
 
 <h2 align="center">💻 Tecnologias</h2>
 
-<div align="center"><br>
-  <img alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img alt="Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img alt="Hibernate" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg">
-  <img alt="Maven" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
-  <img alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img alt="Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img alt="IntelliJ IDEA" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-  <img alt="Postman" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,docker,linux,aws,git,idea,postman&perline=10" />
+  </a>
+</p>
 
 <br>
 
