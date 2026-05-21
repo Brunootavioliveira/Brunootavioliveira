@@ -16,12 +16,12 @@ Transformo meus estudos em projetos práticos que simulam sistemas reais, aplica
   <br>
   🎓 Cursando Engenharia de Software na FIAP.
   <br>
-  📚 Aprofundando conhecimentos em Java, Spring Boot, APIs REST, Mensageria com RabbitMQ, Arquitetura de Microsserviços, Docker e Arquitetura Backend.
+  📚 Aprofundando conhecimentos em Java, Spring Boot, Mensageria, Docker, Cloud e Arquitetura de Software
 </div>
 
 <br>
 
-<div align="center"> 
+<div align="left"> 
   <a href="https://portfoliobrunooliveira.com.br/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
