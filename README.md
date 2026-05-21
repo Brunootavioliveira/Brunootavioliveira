@@ -4,15 +4,15 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Bruno!;" />
 </h1>
 
-<p align="center">
+<p align="left">
 Desenvolvedor Back-end em formação, com foco em <strong>Java</strong> e no ecossistema <strong>Spring</strong>. <br>
 Transformo meus estudos em projetos práticos que simulam sistemas reais, aplicando boas práticas de desenvolvimento, APIs REST e arquitetura backend durante minha jornada em Engenharia de Software.
 </p>
 
 <h2 align="center">Sobre mim</h2>
 
-<div align="center">
-  💼 Estou em busca da minha primeira oportunidade como desenvolvedor Back-end.
+<div align="left">
+  💼 Buscando minha primeira oportunidade como desenvolvedor Back-end 
   <br>
   🎓 Cursando Engenharia de Software na FIAP.
   <br>
@@ -37,31 +37,15 @@ Transformo meus estudos em projetos práticos que simulam sistemas reais, aplica
 
 <h2 align="center">🚀 Projetos em Destaque</h2>
 
-<h3 align="center">💰 FinanceTrack — Sistema de Controle Financeiro</h3>
+<h3 align="left">💰 FinanceTrack — Sistema de Controle Financeiro</h3>
 
-<p align="center">Aplicação <strong>full stack</strong> para gerenciamento de finanças pessoais, com backend em Spring Boot e frontend em React.</p>
+<p align="left">Aplicação <strong>full stack</strong> para gerenciamento de finanças pessoais, com backend em Spring Boot e frontend em React.</p>
 
-<div align="center">
-
-| Funcionalidade | Detalhe |
-|---|---|
-| Backend | Java + Spring Boot |
-| Frontend | React |
-| API REST | Arquitetura em camadas (Controller, Service, Repository) |
-| Autenticação | JWT (JSON Web Token) |
-| Validação de dados | Bean Validation |
-| Tratamento de exceções | Global Exception Handler |
-| Banco de dados | PostgreSQL |
-| Containerização | Docker |
-| Deploy | Aplicação em produção |
-
-</div>
-
-<p align="center">
+<p align="left">
 Projeto desenvolvido como simulação de um produto real, aplicando boas práticas de arquitetura, segurança, validação de dados e organização de código.
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Brunootavioliveira/finance-track-api">
     <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -72,23 +56,13 @@ Projeto desenvolvido como simulação de um produto real, aplicando boas prátic
 
 ---
 
-<h3 align="center">📦 Sistema de Pedidos com Mensageria</h3>
+<h3 align="left">📦 Sistema de Pedidos com Mensageria</h3>
 
-<p align="center">Projeto backend que simula o fluxo de processamento de pedidos utilizando arquitetura assíncrona com mensageria e microsserviços. <em>(em desenvolvimento)</em></p>
+<p align="left">Projeto backend que simula o fluxo de processamento de pedidos utilizando arquitetura assíncrona com mensageria e microsserviços. <em>(em desenvolvimento)</em></p>
 
-<div align="center">
+<p align="left">Objetivo: simular fluxo real de processamento de pedidos em e-commerces.</p>
 
-| Tecnologia | Uso |
-|---|---|
-| Java + Spring Boot | Core da aplicação |
-| RabbitMQ | Mensageria assíncrona |
-| Microsserviços | Arquitetura distribuída |
-
-</div>
-
-<p align="center">Objetivo: simular fluxo real de processamento de pedidos em e-commerces.</p>
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/Brunootavioliveira">
     <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -96,22 +70,11 @@ Projeto desenvolvido como simulação de um produto real, aplicando boas prátic
 
 ---
 
-<h3 align="center">📅 API de Agendamento</h3>
+<h3 align="left">📅 API de Agendamento</h3>
 
-<p align="center">Sistema back-end para gerenciamento de agendamentos, desenvolvido com foco em boas práticas REST e organização de código.</p>
+<p align="left">Sistema back-end para gerenciamento de agendamentos, desenvolvido com foco em boas práticas REST e organização de código.</p>
 
-<div align="center">
-
-| Funcionalidade | Detalhe |
-|---|---|
-| CRUD completo | Criação, leitura, atualização e remoção |
-| Validações de dados | Bean Validation |
-| Endpoints REST | Documentados |
-| Banco de dados | Integração completa |
-
-</div>
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/Brunootavioliveira/appointment-scheduler-api">
     <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
