@@ -4,10 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Bruno!;" />
 </h1>
 
-<p align="left">
-Desenvolvedor Back-end em formação, com foco em <strong>Java</strong> e no ecossistema <strong>Spring</strong>. <br>
-Desenvolvendo sistemas em produção com Java 17/21, Spring Boot 3, Docker e AWS durante minha jornada em Engenharia de Software.
-</p>
 
 <h2 align="center">Sobre mim</h2>
 
