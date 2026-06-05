@@ -31,11 +31,11 @@
 </div>
 
 <br>
-<br>
+
 
 # <img src="https://img.shields.io/badge/-Projetos%20em%20Destaque-1A3A5C?style=for-the-badge&logo=rocket&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/-AutoSpec%20Intelligence%20%E2%80%94%20Plataforma%20de%20IA%20Automotiva%20(Projeto%20FORD)-000?style=for-the-badge&logo=rocket&logoColor=black"/>
+<img src="https://img.shields.io/badge/-AutoSpec%20Intelligence%20%E2%80%94%20Plataforma%20de%20IA%20Automotiva%20(Projeto%20FORD)-000?style=for-the-badge&logo=rocket&logoColor=white"/>
 
 > Plataforma **full-stack** de análise e comparação de especificações técnicas de veículos com IA, desenvolvida para um cenário real da Ford. Arquitetura de microsserviços com Java + Python, integração com Gemini 2.5 Flash, segurança enterprise e deploy em produção na AWS EC2.
 
@@ -55,7 +55,7 @@
 
 <hr>
 
-<img src="https://img.shields.io/badge/-OrbitalLive%20%E2%80%94%20Sistema%20Solar%20em%20Tempo%20Real-000?style=for-the-badge&logo=nasa&logoColor=black"/>
+<img src="https://img.shields.io/badge/-OrbitalLive%20%E2%80%94%20Sistema%20Solar%20em%20Tempo%20Real-000?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 > Plataforma **full-stack** que exibe as posições reais dos planetas do sistema solar em tempo real, consumindo dados da NASA JPL Horizons. API REST + WebSocket (STOMP/SockJS) com broadcast a cada 30s, cache Redis e mapa SVG heliocêntrico interativo.
 
@@ -72,8 +72,6 @@
     <img src="https://img.shields.io/badge/Swagger-API%20Docs-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
   </a>
 </p>
-
-<hr>
 
 
 <br>
