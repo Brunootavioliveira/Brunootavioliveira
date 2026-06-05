@@ -43,13 +43,13 @@
 
 <p align="left">
   <a href="https://autospec-mobile.vercel.app/">
-    <img src="https://img.shields.io/badge/Demo-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Demo-6A0DAD?style=plastic&logo=vercel&logoColor=white"/>
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Brunootavioliveira/autospec-backend">
-    <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Repositório-181717?style=plastic&logo=github&logoColor=white"/>
   </a>&nbsp;&nbsp;
   <a href="https://18.216.83.72:8443/swagger-ui/index.html#/">
-    <img src="https://img.shields.io/badge/Swagger-API%20Docs-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Swagger-API%20Docs-85EA2D?style=plastic&logo=swagger&logoColor=black"/>
   </a>
 </p>
 
@@ -62,14 +62,14 @@
 `Java 17 · Spring Boot 3 · WebSocket · Redis · Scheduler · Docker · React · Vite`
 
 <p align="left">
-  <a href="https://orbital-live.pages.dev/">
-    <img src="https://img.shields.io/badge/Demo-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://orbital-live-front.brunootavioliveira.workers.dev/">
+    <img src="https://img.shields.io/badge/Demo-6A0DAD?style=plastic&logo=vercel&logoColor=white"/>
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/Brunootavioliveira/orbitallive-backend">
-    <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/Brunootavioliveira/orbital-live/tree/main?tab=readme-ov-file">
+    <img src="https://img.shields.io/badge/Repositório-181717?style=plastic&logo=github&logoColor=white"/>
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/Brunootavioliveira/orbitallive-backend">
-    <img src="https://img.shields.io/badge/Swagger-API%20Docs-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+  <a href="https://orbital-live-production.up.railway.app/swagger-ui/index.html">
+    <img src="https://img.shields.io/badge/Swagger-API%20Docs-85EA2D?style=plastic&logo=swagger&logoColor=black"/>
   </a>
 </p>
 
