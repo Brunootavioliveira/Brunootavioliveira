@@ -14,19 +14,19 @@
 
 <div align="left"> 
   <a href="https://portfoliobrunooliveira.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-000?style=plastic&logo=google-chrome&logoColor=white"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/bruno-otavio-oliveira-498b80282/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=plastic&logo=linkedin&logoColor=white"/>
   </a>&nbsp;&nbsp;
   <a href="https://youtube.com/@DevBrunoOtavio" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/devbrunootavio/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-2C3E50?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-2C3E50?style=plastic&logo=instagram&logoColor=white"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:brunootavioliveira@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=plastic&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
