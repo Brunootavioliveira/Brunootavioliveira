@@ -45,7 +45,7 @@
   <a href="https://autospec-mobile.vercel.app/">
     <img src="https://img.shields.io/badge/Demo-6A0DAD?style=plastic&logo=vercel&logoColor=white"/>
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/Brunootavioliveira/autospec-backend">
+  <a href="https://github.com/Brunootavioliveira/autospec-intelligence-platform">
     <img src="https://img.shields.io/badge/Repositório-181717?style=plastic&logo=github&logoColor=white"/>
   </a>&nbsp;&nbsp;
   <a href="https://18.216.83.72:8443/swagger-ui/index.html#/">
