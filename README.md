@@ -22,6 +22,9 @@
   <a href="https://youtube.com/@DevBrunoOtavio" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/devbrunootavio/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-2C3E50?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>&nbsp;&nbsp;
   <a href="mailto:brunootavioliveira@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
