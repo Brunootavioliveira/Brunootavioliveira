@@ -1,13 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:4b4b4b,100:b0b0b0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:1A3A5C,100:2E7DC8"/>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=4B4B4B&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Bruno!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Bruno!;" />
 </h1>
 
- **`Software Engineer`**
+**`Software Engineer`**
 
 <div align="left">
-  Desenvolvedor Backend em formação, com foco em Java, Spring Boot 3 e arquitetura de sistemas. Atualmente cursando Engenharia de Software na FIAP, construindo sistemas reais em produção, de plataformas de IA automotiva com microsserviços e AWS EC2 a rastreamento de dados astronômicos da NASA em tempo real com WebSocket e Redis. Produzo conteúdo técnico no YouTube documentando a jornada de quem está construindo, estudando e evoluindo na prática.
+  Desenvolvedor Backend em formação, com foco em Java, Spring Boot 3 e arquitetura de sistemas. Atualmente cursando Engenharia de Software na FIAP, construindo sistemas reais em produção — de plataformas de IA automotiva com microsserviços e AWS EC2 a rastreamento de dados astronômicos da NASA em tempo real com WebSocket e Redis. Produzo conteúdo técnico no YouTube documentando a jornada de quem está construindo, estudando e evoluindo na prática.
 </div>
 
 <br>
@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/devbrunootavio/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-2C3E50?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-2C3E50?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:brunootavioliveira@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -35,18 +35,15 @@
 
 # <img src="https://img.shields.io/badge/-Projetos%20em%20Destaque-1A3A5C?style=for-the-badge&logo=rocket&logoColor=white"/>
 
-**AutoSpec Intelligence — Plataforma de IA Automotiva (Projeto FORD)**
+<img src="https://img.shields.io/badge/-AutoSpec%20Intelligence%20%E2%80%94%20Plataforma%20de%20IA%20Automotiva%20(Projeto%20FORD)-000?style=for-the-badge&logo=rocket&logoColor=black"/>
 
-> Plataforma <strong>full-stack</strong> de análise e comparação de especificações técnicas de veículos com IA, desenvolvida para um cenário real da Ford. Arquitetura de microsserviços com Java + Python, integração com Gemini 2.5 Flash, segurança enterprise e deploy em produção na AWS EC2.
+> Plataforma **full-stack** de análise e comparação de especificações técnicas de veículos com IA, desenvolvida para um cenário real da Ford. Arquitetura de microsserviços com Java + Python, integração com Gemini 2.5 Flash, segurança enterprise e deploy em produção na AWS EC2.
 
-
-
- `Java · Spring Boot · Spring Security · JWT · Redis · PostgreSQL · FastAPI · Docker · Nginx · AWS EC2 · React + Vite`
-
+`Java 17 · Spring Boot 3 · Spring Security · JWT · Redis · PostgreSQL · FastAPI · Docker · Nginx · AWS EC2 · React/Next.js`
 
 <p align="left">
   <a href="https://autospec-mobile.vercel.app/">
-    <img src="https://img.shields.io/badge/Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Demo-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Brunootavioliveira/autospec-backend">
     <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -58,26 +55,28 @@
 
 <hr>
 
-**`FinanceTrack — Sistema de Controle Financeiro`**
+<img src="https://img.shields.io/badge/-OrbitalLive%20%E2%80%94%20Sistema%20Solar%20em%20Tempo%20Real-000?style=for-the-badge&logo=nasa&logoColor=black"/>
 
-> Aplicação <strong>full-stack</strong> para gerenciamento de finanças pessoais com autenticação JWT, deploy em produção na Vercel e API documentada via Swagger.
+> Plataforma **full-stack** que exibe as posições reais dos planetas do sistema solar em tempo real, consumindo dados da NASA JPL Horizons. API REST + WebSocket (STOMP/SockJS) com broadcast a cada 30s, cache Redis e mapa SVG heliocêntrico interativo.
 
-
-`Java 21 · Spring Boot 3 · Spring Security · JWT · PostgreSQL · Docker · React · Vite · Vercel`
+`Java 17 · Spring Boot 3 · WebSocket · Redis · Scheduler · Docker · React · Vite`
 
 <p align="left">
-  <a href="https://finance-track-frontend-lemon.vercel.app/">
-    <img src="https://img.shields.io/badge/Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://orbital-live.pages.dev/">
+    <img src="https://img.shields.io/badge/Demo-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/Brunootavioliveira/finance-track-api">
+  <a href="https://github.com/Brunootavioliveira/orbitallive-backend">
     <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>&nbsp;&nbsp;
-  <a href="https://finance-track-api-6n9c.onrender.com/swagger-ui/index.html">
+  <a href="https://github.com/Brunootavioliveira/orbitallive-backend">
     <img src="https://img.shields.io/badge/Swagger-API%20Docs-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
   </a>
 </p>
 
-<br></br>
+<hr>
+
+
+<br>
 
 # <img src="https://img.shields.io/badge/-Tecnologias-1A3A5C?style=for-the-badge&logo=stackshare&logoColor=white"/>
 
@@ -91,9 +90,9 @@
 <img align="left" alt="Nginx" title="Nginx" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg"/>
 <img align="left" alt="Linux" title="Linux" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
 <img align="left" alt="AWS" title="AWS" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img align="left" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
-<img align="left" alt="Postman" title="Postman" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
+<img align="left" alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img align="left" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
+<img align="left" alt="Postman" title="Postman" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
 
 <br clear="left"/>
 
@@ -109,11 +108,17 @@
 
 <br>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Brunootavioliveira&locale=pt-br&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"/>
+</div>
+
+<br>
+
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=4B4B4B&center=true&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+visita!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+visita!;" />
 </h1>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4b4b4b,100:b0b0b0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2E7DC8,100:1A3A5C"/>
 
 <br clear="both">
 
